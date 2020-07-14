@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color: #FFF8DC;
+    font-size: large;
+}
+#favss{
+    position: sticky;
+    bottom: 5%;
+    margin: 5px;
+    left: 4%;
+    font-size: x-large;
+}
+#superHeroName{
+    width: 80%;
+    height: 10%;
+    font-size: xx-large;
+    font-family: 'Grenze Gotisch', cursive;
+    border-radius: 5px;
+}
+#sub{
+    font-size: xx-large;
+    font-family: 'Fondamento', cursive;
+    border-radius: 5px;
+    color: gray;
+    cursor: pointer;
+}
+
+#SearchResults div{
+    padding: 1%;
+}
